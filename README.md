@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Vulnerability Scanning </b>
-  - [Burp Suite Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Qualys Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 
