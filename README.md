@@ -3,7 +3,10 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Vulnerability Scanning </b>
-  - [Qualys Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Qualys Home Lab](https://github.com/joshmadakor1/Algorithms-Practice) https://github.com/Olympian21/Qualys-Home-Lab
+
+- <b>Python Projects</b>
+
 
 
 
