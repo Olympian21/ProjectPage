@@ -5,11 +5,13 @@
 
 - <b>Vulnerability Scanning </b>
   - [Qualys Home Lab]( https://github.com/Olympian21/Qualys-Home-Lab)
+    
 
 - <b>Powershell Projects</b>
    - [Disk Wiping Script](https://github.com/Olympian21/Disk-Sanitization/)
 
-
+- <b>Nmap</b>
+   - [Exploiting SMB](https://github.com/Olympian21/Exploiting-SMB)
 
 
 
