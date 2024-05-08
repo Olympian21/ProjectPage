@@ -14,7 +14,7 @@
    - [Exploiting SMB](https://github.com/Olympian21/Exploiting-SMB)
 
 - <b>Active Directory</b>
-  - [Active Directory Basics](https://github.com/Olympian21/AD-Basics)
+  - [Active Directory Essentials](https://github.com/Olympian21/AD-Basics)
 
 
 
