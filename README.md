@@ -10,7 +10,7 @@
 - <b>Powershell</b>
    - [Disk Wiping Script](https://github.com/Olympian21/Disk-Sanitization/)
 
-- <b>Nmap</b>
+- <b>Network Services</b>
    - [Exploiting SMB](https://github.com/Olympian21/Exploiting-SMB)
 
 - <b>Active Directory</b>
